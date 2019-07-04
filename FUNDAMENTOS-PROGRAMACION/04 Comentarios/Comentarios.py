@@ -1,0 +1,6 @@
+
+# MUESTRA UN MENSAJE POR PANTALLA
+print("Hola Mundo") 
+
+# ESTO ES UNA VARIABLE
+dato = 234
